@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "LUXEN.aternos.me",
-    "port": 29101,
+    "ip": "LOGIN.LUX.LUXEN.bed.net.br",
+    "port": 21478,
     "version": "1.20.1",
     "try-creative": false
   },
