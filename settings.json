@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 110,
+      "repeat-delay": 130,
       "messages": [
         "NAO ENTRE EM BASES SEM SER CONVIDADO PELO DONO",
         "PROIBIDO O USO DE HACKS CHEATS OU QUALQUER VANTAGEN INJUSTA!",
