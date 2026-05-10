@@ -19,21 +19,22 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": "chalol78"
+      "enabled": true,
+      "password": "luxen1234"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": false,
-      "repeat": false,
-      "repeat-delay": 120,
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 110,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "NAO ENTRE EM BASES SEM SER CONVIDADO PELO DONO",
+        "PROIBIDO O USO DE HACKS CHEATS OU QUALQUER VANTAGEN INJUSTA!",
+        "NAO ROUBE ITENS DE OUTROS JOGADORES!",
+        "NAO CONSTRUA PERTO DE BASES OU DO SPAWN",
       ]
     },
     "chat-log": false,
